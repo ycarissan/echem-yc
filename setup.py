@@ -10,6 +10,6 @@ setup(
         'plotly',
         'py3Dmol',
         'pyscf',
-        'pyscf.prop',
+        'pyscf.properties',
     ],
 )
